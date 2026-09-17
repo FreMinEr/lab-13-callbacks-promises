@@ -1,0 +1,7 @@
+node_modules/
+test-data/
+test-data-promises/
+test-data-hybrid/
+perf-data/
+npm-debug.log
+.DS_Store

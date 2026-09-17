@@ -1,0 +1,14 @@
+{
+  "name": "lab-13-callbacks-promises",
+  "version": "1.0.0",
+  "description": "Lab 13: callbacks and promises for file operations",
+  "main": "fileOperations.js",
+  "scripts": {
+    "test:callbacks": "node test-callbacks.js",
+    "test:promises": "node test-promises.js",
+    "test:hybrid": "node test-hybrid.js",
+    "bench": "node performance-test.js"
+  },
+  "author": "Parfenok Ivan Nikolaevich, group 477, variant 17",
+  "license": "MIT"
+}
